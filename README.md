@@ -2,6 +2,8 @@
 
 Hello and welcome to the Data Engineer onboarding process at Mashey!
 
+![Philip Welcomes You!](https://user-images.githubusercontent.com/10391857/104138490-9f088180-5361-11eb-950f-2571de303eac.jpg)
+
 ## Table of Contents
 
 - [What is a Data Engineer?](#data-engineer)
