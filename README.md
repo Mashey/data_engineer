@@ -58,9 +58,11 @@ Hello and welcome to the Data Engineer onboarding process at Mashey!
 Things about our team culture. Include:
 
 - Feedback
-- Code Quality
+- Code quality
 - Testing
-- Supporting each other
+- Retros
+- Celebrate wins
+- Support each other
 - Bring your whole-self to work
 
 ## Data Engineer Introduction
