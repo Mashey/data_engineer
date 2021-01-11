@@ -37,7 +37,7 @@ Please take a few minutes to read the entire article:
 
 ### Overlapping Roles
 
-Data Engineers at Mashey are responsible for a broad range of engineerng practices, including aspects of the roles outlined below.
+Data Engineers at Mashey are responsible for a broad range of engineerng practices, including aspects of the roles outlined below. During your onboarding process as a new Data Engineer at Mashey you will not be responsible for the overlapping roles, but it is beneficial to understand how the Data Engineer role will grow as you gain experience.
 
 ![beautiful_mind](https://user-images.githubusercontent.com/10391857/104139620-15a97d00-536a-11eb-914a-d92292efb4d4.gif)
 
@@ -66,3 +66,5 @@ There are generally 3 primary components of Cloud Engineering, which are outline
 - Cloud Adminstration
 
 > Cloud engineers must refine specific cloud computing skills in order to be successful in their roles. These skills range from software development and database administration to change management and data security.
+
+At Mashey our Data Engineers live in the Cloud, and it's important to eventually be comfortable with our core Cloud technologies.
