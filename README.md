@@ -39,6 +39,8 @@ Please take a few minutes to read the entire article:
 
 Data Engineers at Mashey are responsible for a broad range of engineerng practices, including aspects of the roles outlined below.
 
+![beautiful_mind](https://user-images.githubusercontent.com/10391857/104139620-15a97d00-536a-11eb-914a-d92292efb4d4.gif)
+
 #### What do Analytics Engineers do?
 
 It is important to understand where an Analytics Engineer fits between Data Engineers and Data Analysts. Saira Barles, Analytics Engineer @ Hubspot describes the differences in this [blog post](https://dataform.co/blog/what-do-analytics-engineers-do) from [Dataform](https://dataform.co/):
