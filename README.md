@@ -19,12 +19,31 @@ Hello and welcome to the Data Engineer onboarding process at Mashey!
 - [Data Engineering Practices](#data-engineering-practices)
 - [The Mashey Stack](#the-mashey-stack)
   - [Code Quality and Testing](#code-quality-and-testing)
+    - [CircleCI](#circleci)
+    - [Coveralls](#coveralls)
+    - [Codacy or Hound](#codacy-or-hound)
   - [Languages](#languages)
-    - [Python Packages](#python-packages)
+    - [Python](#python)
+      - [Python Packages](#python-packages)
+    - [SQL](#sql)
   - [ELT Pipeline](#elt-pipeline)
-  - [Cloud Services](#cloud-services)
-    - [Google Cloud Platform](#google-cloud-platform)
-    - [Amazon Web Services](#amazon-web-services)
+    - [Singer](#singer)
+    - [Meltano](#meltano)
+    - [Airflow](#airflow)
+    - [Data Build Tool (dbt)](#data-build-tool-dbt)
+    - [Fivetran](#fivetran)
+    - [Docker](#docker)
+  - [Google Cloud Platform](#google-cloud-platform)
+    - [Kubernetes](#kubernetes)
+    - [Cloud Functions](#cloud-functions)
+    - [Cloud SQL](#cloud-sql)
+    - [Cloud Storage](#cloud-storage)
+    - [Artifact Registry](#artifact-registry)
+  - [Amazon Web Services](#amazon-web-services)
+    - [Elastic Container Service](#elastic-container-service-ecs)
+    - [Elastic Kubernetes Service](#elastic-kubernetes-service-eks)
+    - [Elastic Container Registry](#elastic-container-registry-ecr)
+    - [S3](#s3)
   - [Data Warehouses](#data-warehouses)
     - [BigQuery](#bigquery)
     - [Snowflake](#snowflake)
@@ -116,20 +135,34 @@ Our core stack.
 
 ### Code Quality and Testing
 
-- CircleCI
-- Coveralls
-- Codacy/Hound
+How we test and maintain code quality.
+
+#### CircleCI
+
+CircleCI info.
+
+#### Coveralls
+
+Coveralls info.
+
+#### Codacy or Hound
+
+Codacy or Hound info based on which one I pick.
 
 ### Languages
 
-- Python
-- SQL
+The languages we use.
 
-#### Python Packages
+#### Python
+
+Python Info.
+
+##### Python Packages
 
 - autopep8
 - coverage
 - coveralls
+- poetry
 - pylint
 - pytest
 - pytest-cov
@@ -139,34 +172,78 @@ Our core stack.
 - requests
 - singer-python
 - singer-tools
+- SQLAlchemy
 - vcrpy
+
+#### SQL
+
+SQL Info.
 
 ### ELT Pipeline
 
-- Singer Taps and Targets
-- Meltano
-  - Airflow
-- Data Build Tool (dbt)
-- Fivetran
-- Docker
+#### Singer
 
-### Cloud Services
+Singer info.
 
-Cloud servcies we use, other than data warehouses.
+#### Meltano
 
-#### Google Cloud Platform
+Meltano info.
 
-- Kubernetes
-- Cloud Functions
-- Cloud SQL
-- Cloud Storage
-- Artifact Registry
+#### Airflow
 
-#### Amazon Web Services
+Airflow info.
 
-- Elastic Container Service (ECS)
-- Elastic Kubernetes Service (EKS)
-- S3
+#### Data Build Tool (dbt)
+
+DBT info.
+
+#### Fivetran
+
+Fivetran info.
+
+#### Docker
+
+Docker info.
+
+### Google Cloud Platform
+
+#### Kubernetes
+
+Kubernetes info.
+
+#### Cloud Functions
+
+Cloud Functions info.
+
+#### Cloud SQL
+
+Cloud SQL info.
+
+#### Cloud Storage
+
+Cloud Storage info.
+
+#### Artifact Registry
+
+Artifact Registry info.
+
+### Amazon Web Services
+
+#### Elastic Container Service (ECS)
+
+ECS info.
+
+#### Elastic Kubernetes Service (EKS)
+
+EKS info.
+
+#### Elastic Container Registry (ECR)
+
+ECR info.
+
+#### S3
+
+S3 info.
 
 ### Data Warehouses
 
