@@ -2,20 +2,32 @@
 
 Hello and welcome to the Data Engineer onboarding process at Mashey!
 
-![Philip Welcomes You!](https://user-images.githubusercontent.com/10391857/104138490-9f088180-5361-11eb-950f-2571de303eac.jpg)
+!![Philip welcomes you](https://user-images.githubusercontent.com/10391857/104142589-768c8180-5379-11eb-9157-037f500abd73.jpg)
 
 ## Table of Contents
 
-- [What is a Data Engineer?](#data-engineer)
+- [What is a Data Engineer?](#data-engineer-introduction)
   - [What do Data Engineers Do?](#what-do-data-engineers-do?)
   - [Overlapping Roles](#overlapping-roles)
     - [What do Analytics Engineers do?](#what-do-analytics-engineers-do?)
     - [What do DevOps Engineers do?](#what-do-devops-engineers-do?)
     - [What do Cloud Engineers do?](#what-do-cloud-engineers-do?)
+- [ELT vs ETL](#elt-vs-etl)
+- [Mashey Team Culture](#mashey-team-culture)
+- [Agile + Scrum](#agile-+-scrum)
+  - [Asana](#asana)
+- [Data Engineering Practices](#data-engineering-practices)
+- [The Mashey Stack](#the-mashey-stack)
+  - [Tools](#tools)
+- [Environment Setup](#environment-setup)
+- [Data Modeling](#data-modeling)
+  - [Star Schema](#star-schema)
+  - [Snowflake Schema](#snowflake-schema)
+- [Practice](#practice)
 
-## Data Engineer
+## Data Engineer Introduction
 
-You're now a Data Engineer, what is that?
+You are now a Data Engineer, what is that?
 
 ### What do Data Engineers do?
 
@@ -67,4 +79,52 @@ There are generally 3 primary components of Cloud Engineering, which are outline
 
 > Cloud engineers must refine specific cloud computing skills in order to be successful in their roles. These skills range from software development and database administration to change management and data security.
 
-At Mashey our Data Engineers live in the Cloud, and it's important to eventually be comfortable with our core Cloud technologies.
+At Mashey our Data Engineers live in the Cloud, and it's important to eventually be comfortable with fulfilling the above roles within our core Cloud technologies.
+
+## ELT vs ETL
+
+Extract Load Transform vs Extract Transform Load.
+
+## Mashey Team Culture
+
+Things about our team culture. Include something about testing, feedback, code quality, supporting each other, bring your whole-self to work.
+
+## Agile + Scrum
+
+Things about Agile and Scrum.
+
+### Asana
+
+Things about Asana.
+
+## Data Engineering Practices
+
+Our data engineering practices.
+
+## The Mashey Stack
+
+Our core stack.
+
+### Tools
+
+The tools we use.
+
+## Environment Setup
+
+Setting up a development environment.
+
+## Data Modeling
+
+Architect and model data.
+
+### Star Schema
+
+About Star Schemas.
+
+### Snowflake Schema
+
+About Snowflake Schemas.
+
+## Practice
+
+Things to practice, and how to practice them.
