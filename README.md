@@ -6,6 +6,7 @@ Hello and welcome to the Data Engineer onboarding process at Mashey!
 
 ## Table of Contents
 
+- [Mashey Team Culture](#mashey-team-culture)
 - [What is a Data Engineer?](#data-engineer-introduction)
   - [What do Data Engineers Do?](#what-do-data-engineers-do?)
   - [Overlapping Roles](#overlapping-roles)
@@ -13,7 +14,6 @@ Hello and welcome to the Data Engineer onboarding process at Mashey!
     - [What do DevOps Engineers do?](#what-do-devops-engineers-do?)
     - [What do Cloud Engineers do?](#what-do-cloud-engineers-do?)
 - [ELT vs ETL](#elt-vs-etl)
-- [Mashey Team Culture](#mashey-team-culture)
 - [Agile + Scrum](#agile-+-scrum)
   - [Asana](#asana)
 - [Data Engineering Practices](#data-engineering-practices)
@@ -52,6 +52,16 @@ Hello and welcome to the Data Engineer onboarding process at Mashey!
   - [Snowflake Schema](#snowflake-schema)
 - [Environment Setup](#environment-setup)
 - [Practice](#practice)
+
+## Mashey Team Culture
+
+Things about our team culture. Include:
+
+- Feedback
+- Code Quality
+- Testing
+- Supporting each other
+- Bring your whole-self to work
 
 ## Data Engineer Introduction
 
@@ -112,10 +122,6 @@ At Mashey our Data Engineers live in the Cloud, and it's important to eventually
 ## ELT vs ETL
 
 Extract Load Transform vs Extract Transform Load.
-
-## Mashey Team Culture
-
-Things about our team culture. Include something about testing, feedback, code quality, supporting each other, bring your whole-self to work.
 
 ## Agile + Scrum
 
