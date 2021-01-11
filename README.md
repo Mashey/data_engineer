@@ -43,7 +43,7 @@ Data Engineers at Mashey are responsible for a broad range of engineerng practic
 
 #### What do Analytics Engineers do?
 
-It is important to understand where an Analytics Engineer fits between Data Engineers and Data Analysts. Saira Barles, Analytics Engineer @ Hubspot describes the differences in this [blog post](https://dataform.co/blog/what-do-analytics-engineers-do) from [Dataform](https://dataform.co/):
+It is important to understand where an Analytics Engineer fits between Data Engineers and Data Analysts. Saira Barles, Analytics Engineer at Hubspot describes the differences in this [blog post](https://dataform.co/blog/what-do-analytics-engineers-do) from [Dataform](https://dataform.co/):
 
 > “Data engineers build the cupboard, they gather together the wood and the tools and put it together. The Analytics Engineers open the cupboard and start putting in the plates, mugs, bowls, and arrange them in a certain order. This could be arranging them into particular colours, shapes or sizes. Data analysts then go into the cupboard and they know where everything lives as it is arranged nicely. They can then grab the small blue mug they were looking for and go make a cup of tea!”
 
