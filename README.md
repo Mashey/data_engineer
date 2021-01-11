@@ -18,11 +18,20 @@ Hello and welcome to the Data Engineer onboarding process at Mashey!
   - [Asana](#asana)
 - [Data Engineering Practices](#data-engineering-practices)
 - [The Mashey Stack](#the-mashey-stack)
-  - [Tools](#tools)
-- [Environment Setup](#environment-setup)
+  - [Code Quality and Testing](#code-quality-and-testing)
+  - [Languages](#languages)
+    - [Python Packages](#python-packages)
+  - [ELT Pipeline](#elt-pipeline)
+  - [Cloud Services](#cloud-services)
+    - [Google Cloud Platform](#google-cloud-platform)
+    - [Amazon Web Services](#amazon-web-services)
+  - [Data Warehouses](#data-warehouses)
+    - [BigQuery](#bigquery)
+    - [Snowflake](#snowflake)
 - [Data Modeling](#data-modeling)
   - [Star Schema](#star-schema)
   - [Snowflake Schema](#snowflake-schema)
+- [Environment Setup](#environment-setup)
 - [Practice](#practice)
 
 ## Data Engineer Introduction
@@ -105,17 +114,75 @@ Our data engineering practices.
 
 Our core stack.
 
-### Tools
+### Code Quality and Testing
 
-The tools we use.
+- CircleCI
+- Coveralls
+- Codacy/Hound
 
-## Environment Setup
+### Languages
 
-Setting up a development environment.
+- Python
+- SQL
+
+#### Python Packages
+
+- autopep8
+- coverage
+- coveralls
+- pylint
+- pytest
+- pytest-cov
+- pytest-mock
+- pytest-vcr
+- python-dotenv
+- requests
+- singer-python
+- singer-tools
+- vcrpy
+
+### ELT Pipeline
+
+- Singer Taps and Targets
+- Meltano
+  - Airflow
+- Data Build Tool (dbt)
+- Fivetran
+- Docker
+
+### Cloud Services
+
+Cloud servcies we use, other than data warehouses.
+
+#### Google Cloud Platform
+
+- Kubernetes
+- Cloud Functions
+- Cloud SQL
+- Cloud Storage
+- Artifact Registry
+
+#### Amazon Web Services
+
+- Elastic Container Service (ECS)
+- Elastic Kubernetes Service (EKS)
+- S3
+
+### Data Warehouses
+
+The data warehouses we use.
+
+#### BigQuery
+
+GCP BigQuery.
+
+#### Snowflake
+
+Snowflake.
 
 ## Data Modeling
 
-Architect and model data.
+Concepts to architect and model data.
 
 ### Star Schema
 
@@ -124,6 +191,10 @@ About Star Schemas.
 ### Snowflake Schema
 
 About Snowflake Schemas.
+
+## Environment Setup
+
+Setting up a development environment.
 
 ## Practice
 
